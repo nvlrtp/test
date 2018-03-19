@@ -6,3 +6,4 @@ $ git cat-file -p 99f1a6d12cb4b6f19c8655fca46c3ecf317074e0
 Conceptually, the data that Git is storing looks something like this:
 
 
+MMM
